@@ -90,6 +90,7 @@ You are required to submit the following for review:
 * Updated title to match better the website
 * Added class ="logo" into line 14 to improve visibility in analysis using elements
 * Added Sections instead of Div's in each group of content with div's
+* Added <aside> instead of div on the right column to better indicate the position
 * Added alt="" after the src="" of images to match accessibility standards
 * Changed <"div class="footer"> to only <footer>
 
