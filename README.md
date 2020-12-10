@@ -102,18 +102,14 @@ You are required to submit the following for review:
 * Reduced 53 lines of code from CSS
 
 
-
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-
 ## CSS Before
 
-![CSS before](./assets/images/css-before.PNG)
+![CSS before](.Develop/assets/images/css-before.PNG)
 
 ## CSS After
 
-![CSS before](./assets/images/css-after.PNG)
+![CSS before](.Develop/assets/images/css-after.PNG)
+
+## URL for final work
+
+[GitHub URL](https://wildnei.github.io/week1-homework-html-css/)
