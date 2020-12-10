@@ -5,7 +5,7 @@
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+So THAT our own site is optimized for search engines
 ```
 
 ## Acceptance Criteria
@@ -35,7 +35,7 @@ The following image shows the web application's appearance and functionality:
 
 This homework is graded based on the following criteria: 
 
-### Technical Acceptance Criteria: 40%
+### Technical Acceptance Criteria
 
 * Satisfies all of the above acceptance criteria plus the following code improvements:
 
@@ -45,7 +45,7 @@ This homework is graded based on the following criteria:
 
   * Application's CSS file is properly commented.
 
-### Deployment: 32%
+### Deployment
 
 * Application deployed at live URL.
 
@@ -87,20 +87,33 @@ You are required to submit the following for review:
 # Changelog HTML 
 
 
-* Updated title to match better the website
-* Added class ="logo" into line 14 to improve visibility in analysis using elements
-* Added Sections instead of Div's in each group of content with div's
-* Added <aside> instead of div on the right column to better indicate the position
-* Added alt="" after the src="" of images to match accessibility standards
-* Changed <"div class="footer"> to only <footer>
+- [x] Updated title to match better the website
+- [x] Added **class ="logo"** into line 14 to improve visibility in analysis using elements
+- [x] Added **section** instead of div in each group of content with div's
+- [x] Added **aside** instead of div on the right column to better indicate the position
+- [x] Added **alt=""** after the src="" of images to match accessibility standards
+- [x] Changed <"div class="footer"> to only **footer** and updated CSS
 
 
 ## Changelog CSS
 
 * Removed .header before .seo
+* Removed redundant files and synthesized content with same values
+* Reduced 53 lines of code from CSS
+
+
 
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+
+## CSS Before
+
+![CSS before](./assets/images/css-before.PNG)
+
+## CSS After
+
+![CSS before](./assets/images/css-after.PNG)
