@@ -28,7 +28,7 @@ So THAT our own site is optimized for search engines
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./readme-assets/01-html-css-git-homework-demo.png)
 
 
 ## Grading Requirements
@@ -55,11 +55,11 @@ This homework is graded based on the following criteria:
 
 * GitHub repository that contains application code.
 
-### Application Quality: 15%
+### Application Quality
 
 * Application resembles (at least 90%) screenshots provided in the homework instructions.
 
-### Repository Quality: 13%
+### Repository Quality
 
 * Repository has a unique name.
 
