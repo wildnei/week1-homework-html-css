@@ -114,3 +114,5 @@ You are required to submit the following for review:
 ## URL for final work
 
 [GitHub URL](https://wildnei.github.io/week1-homework-html-css/)
+
+:grinning:
