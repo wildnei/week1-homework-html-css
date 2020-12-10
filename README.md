@@ -10,19 +10,19 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+
+- [x] GIVEN a webpage meets accessibility standards
+- [x] WHEN I view the source code
+- [x] THEN I find semantic HTML elements
+- [x] WHEN I view the structure of the HTML elements
+- [x] THEN I find that the elements follow a logical structure independent of styling and positioning
+- [x] WHEN I view the image elements
+- [x] THEN I find accessible alt attributes
+- [x] WHEN I view the heading attributes
+- [x] THEN they fall in sequential order
+- [x] WHEN I view the title element
+- [x] THEN I find a concise, descriptive title
+
 
 ## Mock-Up
 
@@ -84,7 +84,7 @@ You are required to submit the following for review:
 
 
 
-## ** <h1> Changelog HTML </h1> **
+# Changelog HTML 
 
 
 * Updated title to match better the website
