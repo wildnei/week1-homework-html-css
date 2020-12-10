@@ -84,7 +84,7 @@ You are required to submit the following for review:
 
 
 
-## Changelog HTML
+## ** <h1> Changelog HTML </h1> **
 
 
 * Updated title to match better the website
@@ -98,3 +98,9 @@ You are required to submit the following for review:
 ## Changelog CSS
 
 * Removed .header before .seo
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
