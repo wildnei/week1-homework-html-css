@@ -97,9 +97,10 @@ You are required to submit the following for review:
 
 ## Changelog CSS
 
-* Removed .header before .seo
-* Removed redundant files and synthesized content with same values
-* Reduced 53 lines of code from CSS
+- [x] Removed .header before .seo
+- [x] Removed redundant files and synthesized content with same values
+- [x] Reduced 53 lines of code from CSS
+- [x] Applied comments to style.css
 
 
 ## CSS Before
