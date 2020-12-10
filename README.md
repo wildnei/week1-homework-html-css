@@ -104,11 +104,11 @@ You are required to submit the following for review:
 
 ## CSS Before
 
-![CSS before](./Develop/assets/images/css-before.PNG)
+![CSS before](./readme-assets/css-before.PNG)
 
 ## CSS After
 
-![CSS before](./Develop/assets/images/css-after.PNG)
+![CSS before](./readme-assets/css-after.PNG)
 
 ## URL for final work
 
