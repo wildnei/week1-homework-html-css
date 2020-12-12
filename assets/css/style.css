@@ -9,6 +9,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* This part of the css only affects the header  */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* The .hero organizes the main image on the website */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +79,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Organize the right table of contents */
 
 .benefits {
     margin-right: 20px;
@@ -132,7 +138,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 footer {
     padding: 30px;
